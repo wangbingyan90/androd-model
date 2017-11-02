@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">one</string>
+    <string name="item_vip">a</string>
+    <string name="item_1">ttt1</string>
+    <string name="item_2">ttt2</string>
+    <string name="item_3">ttt3</string>
+    <string name="item_4">ttt4</string>
+    <string name="item_5">ttt5</string>
+    <string name="item_6">ttt6</string>
+    <string name="item_7">ttt7</string>
+    <string name="item_8">ttt8</string>
+    <string name="item_9">ttt9</string>
+
+    <string-array name="sections">
+        <item>标题1</item>
+        <item>标题2</item>
+        <item>标题3</item>
+        <item>标题4</item>
+        <item>标题5</item>
+        <item>标题6</item>
+    </string-array>
+</resources>
